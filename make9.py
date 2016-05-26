@@ -27,5 +27,5 @@ if score > 9.0:
 	print("You score was {}.".format(score))
 
 if ready != "ready":
-		print("Aww, why don't you want to play.")
+		print("Aww, why don't you want to play?")
 
